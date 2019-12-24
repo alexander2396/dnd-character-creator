@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pull-right {
+  float: right;
+}
+
+.skill-value {
+  position: absolute;
+  top: 9px;
+  left: 220px;
+}
+
+.skills label {
+  margin-bottom: 0;
+}
